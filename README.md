@@ -94,7 +94,7 @@ Dashboard mencakup:
 
 ### Dashboard Preview
 
-![Superstore Dashboard](dashboard/superstore_dashboard.png)
+![Superstore Dashboard](dashboard/dashboard.png)
 
 **Temuan Hasil Analisis**
 
